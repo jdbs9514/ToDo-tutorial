@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import TodoContainer from './components/TodoContainer';
-// import './index.css';
+import './App.css';
 
 // ReactDOM.render(<TodoContainer />, document.getElementById('root'));
 
